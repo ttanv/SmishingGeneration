@@ -1,0 +1,257 @@
+[
+    {
+        "message": "You've been selected for a job offer at a top company! Reply to 0712345678 and click the link to learn more: https://chat.whatsapp.com/CjGB6Bf9t",
+        "method": "Work from Home job offer",
+        "persuasion_technique": "Liking Similarity and Deception"
+    },
+    {
+        "message": "Your account has been compromised, please visit https://www.citibankaccount.info to verify your account.",
+        "method": "Account Alert",
+        "persuasion_technique": "Authority"
+    },
+    {
+        "message": "You've won a prize! Reply to 0987654321 and click the link to claim your prize: https://www.prizewinner.com/1234567890",
+        "method": "Prize/Contest Winner",
+        "persuasion_technique": "Social Proof"
+    },
+    {
+        "message": "Your package has been delayed, please contact us at 555-123-4567 to resolve the issue: https://www.shippingdelays.com/abc123",
+        "method": "Package Delivery",
+        "persuasion_technique": "Distraction"
+    },
+    {
+        "message": "You've been selected for a payday loan! Reply to 111-222-3333 and click the link to apply: https://www.paydayloan.com/456789",
+        "method": "Payday Loan/Credit",
+        "persuasion_technique": "Commitment, Integrity and Reciprocation"
+    },
+    {
+        "message": "You've been invited to a job interview! Reply to 444-555-6666 and click the link to schedule an appointment: https://www.jobinterview.com/777888",
+        "method": "Job Advertisement",
+        "persuasion_technique": "Liking Similarity and Deception"
+    },
+    {
+        "message": "You've been selected for a link-only offer! Reply to 999-000-1111 and click the link to learn more: https://www.linkonly.com/222333",
+        "method": "Link Only",
+        "persuasion_technique": "Social Proof"
+    },
+    {
+        "message": "You've been selected for a finance scam! Reply to 666-777-8888 and click the link to learn more: https://www.finance scam.com/999000",
+        "method": "Finance/Crypto Scam",
+        "persuasion_technique": "Authority"
+    },
+    {
+        "message": "You've been selected for a lawsuit settlement! Reply to 888-999-0000 and click the link to learn more: https://www.lawsuitsettlement.com/555666",
+        "method": "Lawsuit Settlement",
+        "persuasion_technique": "Commitment, Integrity and Reciprocation"
+    },
+    {
+        "message": "You've been selected for a buy/sell product offer! Reply to 444-555-6666 and click the link to learn more: https://www.buysellproduct.com/777888",
+        "method": "Buy/Sell Product",
+        "persuasion_technique": "Social Proof"
+    },
+    {
+        "message": "You have been selected for a $10,000 cash prize. Reply with 2 to claim.",
+        "method": "Prize/Contest Winner",
+        "persuasion_technique": "Liking Similarity and Deception"
+    },
+    {
+        "message": "Your Amazon Prime membership has been compromised. Please reset your password: https://amazonprime resetting.com",
+        "method": "Finance/Crypto Scam",
+        "persuasion_technique": "Authority"
+    },
+    {
+        "message": "Congratulations, you've won a free trip to Paris! Reply with 1 to claim your prize: https://tripwinner.com/Paris",
+        "method": "Prize/Contest Winner",
+        "persuasion_technique": "Social Proof"
+    },
+    {
+        "message": "Your PayPal account has been locked due to suspicious activity. Please reset your password: https://paypalreset.com",
+        "method": "Finance/Crypto Scam",
+        "persuasion_technique": "Distraction"
+    },
+    {
+        "message": "You have been selected for a free iPhone. Reply with 2 to claim your prize: https://iphonewinner.com",
+        "method": "Prize/Contest Winner",
+        "persuasion_technique": "Liking Similarity and Deception"
+    },
+    {
+        "message": "Your Citibank account has been compromised. Please reset your password: https://citibankreset.com",
+        "method": "Finance/Crypto Scam",
+        "persuasion_technique": "Commitment, Integrity and Reciprocation"
+    },
+    {
+        "message": "Congratulations, you've won a free car! Reply with 1 to claim your prize: https://carwinner.com",
+        "method": "Prize/Contest Winner",
+        "persuasion_technique": "Social Proof"
+    },
+    {
+        "message": "Your Google account has been locked due to suspicious activity. Please reset your password: https://googlereset.com",
+        "method": "Finance/Crypto Scam",
+        "persuasion_technique": "Distraction"
+    },
+    {
+        "message": "You have been selected for a $5,000 cash prize. Reply with 2 to claim.",
+        "method": "Prize/Contest Winner",
+        "persuasion_technique": "Liking Similarity and Deception"
+    },
+    {
+        "message": "Your Bank of America account has been compromised. Please reset your password: https://bofarest.com",
+        "method": "Finance/Crypto Scam",
+        "persuasion_technique": "Commitment, Integrity and Reciprocation"
+    },
+    {
+        "message": "Your PayPal account has been temporarily locked due to suspicious activity. Please click the link below to verify your account and unlock it.",
+        "method": "Account Alert",
+        "persuasion_technique": "Social Proof"
+    },
+    {
+        "message": "You have won a prize of $10,000 in our latest lottery draw. Reply 1 to claim your prize.",
+        "method": "Prize/Contest Winner",
+        "persuasion_technique": "Authority"
+    },
+    {
+        "message": "Your package has been delayed due to inclement weather. Please click the link below to track the status and receive updates.",
+        "method": "Package Delivery",
+        "persuasion_technique": "Liking Similarity and Deception"
+    },
+    {
+        "message": "You are eligible for a $500 loan with an interest rate of 10%. Reply 1 to apply.",
+        "method": "Payday Loan/Credit",
+        "persuasion_technique": "Distraction"
+    },
+    {
+        "message": "Your friend has invited you to a job opportunity that pays $20,000 per month. Reply 1 to learn more.",
+        "method": "Job Advertisement",
+        "persuasion_technique": "Commitment, Integrity and Reciprocation"
+    },
+    {
+        "message": "Click the link below to claim your prize of $5,000.",
+        "method": "Link Only",
+        "persuasion_technique": "Liking Similarity and Deception"
+    },
+    {
+        "message": "You are eligible for a $1,000 grant to help with your education expenses. Reply 1 to apply.",
+        "method": "Finance/Crypto Scam",
+        "persuasion_technique": "Social Proof"
+    },
+    {
+        "message": "You have been selected for a lawsuit settlement of $30,000. Reply 1 to receive more information.",
+        "method": "Lawsuit Settlement",
+        "persuasion_technique": "Authority"
+    },
+    {
+        "message": "You can buy a new iPhone for $1,000 with a 10% discount. Reply 1 to learn more.",
+        "method": "Buy/Sell Product",
+        "persuasion_technique": "Social Proof"
+    },
+    {
+        "message": "You have won a prize of $20,000 in our latest contest. Reply 1 to claim your prize.",
+        "method": "Prize/Contest Winner",
+        "persuasion_technique": "Liking Similarity and Deception"
+    },
+    {
+        "message": "You are eligible for a $500 loan with an interest rate of 10%. Reply 1 to apply.",
+        "method": "Payday Loan/Credit",
+        "persuasion_technique": "Distraction"
+    },
+    {
+        "message": "Your PayPal account has been updated. Please visit https://bit.ly/3nYQwvT to confirm.",
+        "method": "Payday Loan/Credit",
+        "persuasion_technique": "Social Proof"
+    },
+    {
+        "message": "You have won a prize of $1000. Reply 'yes' to claim your prize: https://bit.ly/3C8p4LW",
+        "method": "Prize/Contest Winner",
+        "persuasion_technique": "Authority"
+    },
+    {
+        "message": "Your bank account has been restricted. Please visit https://bit.ly/3L9xXsS to verify your account.",
+        "method": "BofA",
+        "persuasion_technique": "Distraction"
+    },
+    {
+        "message": "You have been invited to a exclusive online course. Reply 'yes' to learn more: https://bit.ly/3P9gG7T",
+        "method": "Link Only",
+        "persuasion_technique": "Liking Similarity and Deception"
+    },
+    {
+        "message": "Your package has been shipped. Track your package here: https://bit.ly/3D9r7dS",
+        "method": "Package Delivery",
+        "persuasion_technique": "Commitment, Integrity and Reciprocation"
+    },
+    {
+        "message": "You have been selected for a free trial. Reply 'yes' to get started: https://bit.ly/3F9yY9T",
+        "method": "Job Advertisement",
+        "persuasion_technique": "Authority"
+    },
+    {
+        "message": "Your account has been compromised. Please visit https://bit.ly/3H9xXsS to reset your password.",
+        "method": "Finance/Crypto Scam",
+        "persuasion_technique": "Social Proof"
+    },
+    {
+        "message": "You have won a prize of $500. Reply 'yes' to claim your prize: https://bit.ly/3J9yY9T",
+        "method": "Prize/Contest Winner",
+        "persuasion_technique": "Distraction"
+    },
+    {
+        "message": "Your debit card has been activated. Please visit https://bit.ly/3L9xXsS to activate it.",
+        "method": "Citi",
+        "persuasion_technique": "Liking Similarity and Deception"
+    },
+    {
+        "message": "You have been invited to a exclusive online discussion group. Reply 'yes' to join: https://bit.ly/3P9gG7T",
+        "method": "Link Only",
+        "persuasion_technique": "Authority"
+    },
+    {
+        "message": "You won a prize of $1,000,000! Reply this link to claim your reward: https://example.com/claim-prize",
+        "method": "Prize/Contest Winner",
+        "persuasion_technique": "Social Proof"
+    },
+    {
+        "message": "Your 2023 tax refund is ready! Visit https://example.com/tax-refund to claim your refund.",
+        "method": "Link Only",
+        "persuasion_technique": "Authority"
+    },
+    {
+        "message": "We have detected suspicious activity on your Citibank account. Please verify your account at https://example.com/account-verify.",
+        "method": "Account Alert",
+        "persuasion_technique": "Distraction"
+    },
+    {
+        "message": "You have been selected for a free vacation! Reply this link to book your trip: https://example.com/vacation-package.",
+        "method": "Job Advertisement",
+        "persuasion_technique": "Liking Similarity and Deception"
+    },
+    {
+        "message": "Your PayPal account has been compromised. Please reset your password at https://example.com/paypal-reset.",
+        "method": "Payday Loan/Credit",
+        "persuasion_technique": "Commitment, Integrity and Reciprocation"
+    },
+    {
+        "message": "You have won a free iPhone! Reply this link to claim your prize: https://example.com/iphone-giveaway.",
+        "method": "Prize/Contest Winner",
+        "persuasion_technique": "Social Proof"
+    },
+    {
+        "message": "Your Amazon account has been locked due to suspicious activity. Please verify your account at https://example.com/amazon-verify.",
+        "method": "Link Only",
+        "persuasion_technique": "Authority"
+    },
+    {
+        "message": "You have been selected for a free car! Reply this link to claim your prize: https://example.com/car-giveaway.",
+        "method": "Job Advertisement",
+        "persuasion_technique": "Liking Similarity and Deception"
+    },
+    {
+        "message": "Your credit card has been declined due to low funds. Please top up your account at https://example.com/credit-card-topup.",
+        "method": "Account Alert",
+        "persuasion_technique": "Distraction"
+    },
+    {
+        "message": "You have been invited to a free online course! Reply this link to claim your spot: https://example.com/course-invite.",
+        "method": "Finance/Crypto Scam",
+        "persuasion_technique": "Commitment, Integrity and Reciprocation"
+    }
+]

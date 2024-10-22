@@ -1,0 +1,44 @@
+{
+  "initial_smishing_categories": [
+    {
+      "name": "Account Alert",
+      "description": "Fake urgent messages about account issues or security breaches"
+    },
+    {
+      "name": "Prize/Contest Winner",
+      "description": "False notifications of winning a lottery or contest"
+    },
+    {
+      "name": "Package Delivery",
+      "description": "Fraudulent shipping notifications or tracking updates"
+    },
+    {
+      "name": "Payday Loan/Credit",
+      "description": "Offers for easy loans or credit with suspicious terms"
+    },
+    {
+      "name": "Wrong Number/Romance",
+      "description": "Pretending to message the wrong person, leading to romantic scams"
+    },
+    {
+      "name": "Job Advertisement",
+      "description": "Fake job offers or work-from-home opportunities"
+    },
+    {
+      "name": "Link Only",
+      "description": "Messages containing only a suspicious link"
+    },
+    {
+      "name": "Finance/Crypto Scam",
+      "description": "Fraudulent investment opportunities or cryptocurrency schemes"
+    },
+    {
+      "name": "Lawsuit Settlement",
+      "description": "False claims of entitlement to legal settlements"
+    },
+    {
+      "name": "Buy/Sell Product",
+      "description": "Fake marketplace listings or product offers"
+    }
+  ]
+}

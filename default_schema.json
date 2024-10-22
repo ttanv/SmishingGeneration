@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SMS Phishing Message Schema",
+  "type": "object",
+  "properties": {
+    "message": {
+      "type": "string"
+    },
+    "method": {
+      "type": "string",
+      "enum": [
+        "Account Alert",
+        "Prize/Contest Winner",
+        "Package Delivery",
+        "Payday Loan/Credit",
+        "Wrong Number/Romance",
+        "Job Advertisement",
+        "Link Only",
+        "Finance/Crypto Scam",
+        "Lawsuit Settlement",
+        "Buy/Sell Product"
+      ]
+    },
+    "persuasion_technique": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "enum": [
+            "Authority",
+            "Social Proof",
+            "Liking Similarity and Deception",
+            "Distraction",
+            "Commitment, Integrity and Reciprocation"
+          ]
+        },
+        "description": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "name",
+        "description"
+      ]
+    }
+  },
+  "required": [
+    "message",
+    "method",
+    "persuasion_technique"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "persuasion_techniques": [
+    {
+      "name": "Authority",
+      "description": "People are conditioned to respond to authority figures/authority clues"
+    },
+    {
+      "name": "Social Proof",
+      "description": "People determine the appropriateness of their actions and behaviours by looking to the actions and behaviours of others"
+    },
+    {
+      "name": "Liking Similarity and Deception",
+      "description": "People are more likely to comply with someone they know, like and with whom they share interests, ideals and wants"
+    },
+    {
+      "name": "Distraction",
+      "description": "Focusing on potential gains, losses, or emotional triggers can lead people to overlook important factors when making decisions."
+    },
+    {
+      "name": "Commitment, Integrity and Reciprocation",
+      "description": "Reciprocating a favour or responding to some action can be an automatic response that is linked to a sense of commitment with a previous situation"
+    }
+  ]
+}
